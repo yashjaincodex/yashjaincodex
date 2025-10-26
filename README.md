@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Senior AI & Backend Engineer | Tech Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+LLMs+%7C+Agents+%7C+ML;Python+%7C+Flask+%7C+Django;Making+Complex+Things+Simple+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+%7C+LLMs+%7C+Agents+%7C+ML;Python+%7C+FastAPI+%7C+Flask+%7C+Django;Making+Complex+Things+Simple+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---

@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash0307jain&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0307jain&layout=compact&theme=tokyonight&hide=css,scss,html" height="180px"/>
-</p>
-
----
-
 ### 👀 Visitor Count
 
 <p align="center">

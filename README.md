@@ -25,13 +25,3 @@
   <a href="https://topmate.io/yash0307jain"><img src="https://img.shields.io/badge/Topmate-orange?style=for-the-badge&logo=Topmate&logoColor=white"/></a>
   <a href="https://yash0307jain.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
-
----
-
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yash0307jain/count.svg" />
-</p>
-
----
